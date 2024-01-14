@@ -26,9 +26,13 @@ We performed visualization over various features to find their distribution, and
 ## RESULTS
 
 This section provides a comparative analysis of the different machine and ensemble learning models used in this project on various performance metric.
+
 ![image](https://github.com/chirag1902/Mental-Health-Prediction-Using-Machine-and-Ensemble-Learning/assets/71887495/445c8dfd-365d-47ab-97cb-e020292666a6)
+
 ![image](https://github.com/chirag1902/Mental-Health-Prediction-Using-Machine-and-Ensemble-Learning/assets/71887495/d33c6234-c9af-4b42-bb79-2a77a7ebdc7a)
+
 ![image](https://github.com/chirag1902/Mental-Health-Prediction-Using-Machine-and-Ensemble-Learning/assets/71887495/22939897-9572-4bf1-981a-445d7a1f090e)
+
 ![image](https://github.com/chirag1902/Mental-Health-Prediction-Using-Machine-and-Ensemble-Learning/assets/71887495/2504b040-6cb5-40f7-b0c8-85f07c2b4863)
 
 ## CONCLUSION:
